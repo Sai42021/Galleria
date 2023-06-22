@@ -1,5 +1,5 @@
 # Galleria
-Virtual art gallery
+Digital art gallery
 
 # Screenshots
 
