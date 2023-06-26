@@ -11,6 +11,11 @@ body {
   background: #fff;
 }
 
+/* Solid border */
+hr.solid {
+  border-top: 3px solid #e0e0e0;
+}
+
 #page {
   position: relative;
   overflow-x: hidden;
@@ -568,6 +573,12 @@ body {
   font-size: 65px;
   color: red;
   cursor: pointer;
+}
+
+#about, #expansion, 
+#intellectual-property,
+#enjoy {
+  padding-top: 5%;
 }
 
 #Biography h2{
